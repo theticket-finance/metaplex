@@ -34,6 +34,7 @@ Kurulum tamamlandıktan sonra .env klasörüne eklemenizi isteyecek bir bilgi va
 js/packages/web/.env içine bunu yapıştırıp; diğer iki satırı da şu şekilde düzenleyin: 
 
 SPL_TOKEN_MINTS=AymKzSDznoLT7Vhsb4wSRnCj1gjcG3zkgYFY8fxsHHer
+
 CG_SPL_TOKEN_IDS=ticket
 
 
