@@ -39,5 +39,6 @@ CG_SPL_TOKEN_IDS=ticket
 
 
 SPL_TOKEN_MINTS: Hangi Token ile satış yapılabileceğini belirtebiliyoruz. Virgüllerle USDC veya farklı tokenlar da eklenebilir. SOL default olarak var. 
+
 CG_SPL_TOKEN_IDS: Bu nedir bilmiyorum. İlk kurulumda isimlerini gördüğüm için, ticket yazdım :) 
 
