@@ -59,6 +59,16 @@ CG_SPL_TOKEN_IDS: Bu nedir bilmiyorum. İlk kurulumda isimlerini gördüğüm i�
 
 
 # Oluşturulan NFT'yi satışa koyma
+NFT'leri 5 farklı şekilde satışa sunabilirsiniz. Biz yukarıda bir tane oluşturduğumuz için, "Mevcut NFT Satışı" seçtik. Ama burada farklı işlemler de var. NFY'yi satın aldıkça o an üretip de teslim eden, sınırlı sayıda üretilmesine izin veren (Mesela 100 tane 1st class gibi. Satın alındıkça ödemeyi alır ve NFT verir. 100. adet satıldıktan sonra satışlara kapanır), Açık arttırma ile (belli zaman aralığı ve her tekif arası belli zaman ve minimum artış oranı bilgileri ile) ilk 3'e NFT'yi (3 farklı nft oluyor) verir. Diğer katılımcılara da ücretleri iade edilir. (Komisyonlar katılımcılardan kesiliyor). 
+Bunlar detaylıca test edilmeye devam ediliyor. 
+Mevcut NFT satışı ile satış yapıldığında: 
+- NFT store'a gidiyor. 
+- Kullanıcı store'dan (belirttiğimiz miktar ve belirttiğimiz token veya sol ile) satın alabiliyor. 
+- NFT kullanıcıya ulaşıyor. 
+- Kullanıcıdan belirtilen miktarda token alınıyor. 
+- **SORUN:** Kullanıcıdan alınan token satıcıya gitmiyor bi türlü. Bu adımda tıknadık. 
+
+
 ## Anında Satış | Instant Sale
 ## Sınırlı Sayıda Satış | Limited Edition
 ## Açık Sürüm (Sınırsız) | Open Edition
