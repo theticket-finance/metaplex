@@ -8,8 +8,9 @@ https://github.com/Automattic/node-canvas
 Rust Lang: 
 https://www.rust-lang.org/tools/install
 
-npx ts-node
-MacOS'da npm i ts-node ile kurdum.
+npx ts-node:
+npm install -g ts-node
+(MacOS'da npm i ts-node ile kurdum.) 
 
 # İhtiyaçlar: 
 Bir wallet'a ihtiyacınız var. Wallet'da fee'leri ödeyebilecek kadar sol (0.5 yeterli) olmalı. 
